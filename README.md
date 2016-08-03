@@ -1,6 +1,6 @@
-# Swift Style Guide
+# PureCloud Swift Style Guide
 
-This guide deviates slightly from the [Ray Wenderlich Style Guide](https://github.com/raywenderlich/swift-style-guide#access-control) style guide, the changes are listed below.
+The following guide should be used for Swift code formatting and styling [Ray Wenderlich Style Guide](https://github.com/raywenderlich/swift-style-guide#access-control) with the exception of minor changes listed on this page.
 
 ## Spacing
 
