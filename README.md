@@ -1,24 +1,10 @@
 # Swift Style Guide
 
-This guide deviates slightly from the Wenderlich Style Guide which is credited below, please read through that guide and note the changes.
-
-## Credits
-
-[Ray Wenderlich Style Guide](https://github.com/raywenderlich/swift-style-guide#access-control)
-
-## Table of Contents
-
-* [Code Organization](#code-organization)
-* [Spacing](#spacing)
-* [Comments](#comments)
-
-## Code Organization
-
-Extensions should be marked with a `// MARK: -` comment to keep things well-organized but in generally these marks should only be used when they bring clarity to the class.
+This guide deviates slightly from the [Ray Wenderlich Style Guide](https://github.com/raywenderlich/swift-style-guide#access-control) style guide, the changes are listed below.
 
 ## Spacing
 
-* Indent using 4 spaces rather than tabs to conserve space and help prevent line wrapping.
+Indent using 4 spaces rather than tabs to conserve space and help prevent line wrapping.
 
 ## Comments
 
